@@ -1,0 +1,10 @@
+
+demo/dog.jpeg // 
+
+That dog has the cutest smile!
+
+
+demo/cat.jpeg // 
+
+That cat is so beautiful! Its fur is so shiny and the colors are so striking against the dark background.
+
