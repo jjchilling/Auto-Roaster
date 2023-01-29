@@ -10,7 +10,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-Using a virtual environment, use pip to download the following libraries.
+In a virtual environment, use pip to download the following libraries.
 * pip
   ```sh
   pip install replicate opencv-python
