@@ -1,5 +1,7 @@
 # Auto-Roaster
 
+<h3 align="center"> project_title </h3>
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
