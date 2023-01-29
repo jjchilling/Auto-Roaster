@@ -1,6 +1,6 @@
 # Auto-Roaster
 
-<h3 align="center"> project_title </h3>
+<h3 align="center"> Friend or foe? Yay or no? Send a compliment over to tip your hat, or generate a sly roast for a laugh. All generated and automated by the latest advances in deep learning for vision-language! </h3>
 
 <!-- GETTING STARTED -->
 ## Getting Started
