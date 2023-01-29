@@ -36,10 +36,19 @@ Using a virtual environment, use pip to download the following libraries.
 <!-- USAGE EXAMPLES -->
 ## Usage
 ### main.py
+1. In shell, run
+  ```sh
+  python main.py
+  ```
+2. The script will ask if you want a roast or compliment (type in 'roast' or 'compliment' exactly without the quotes)
+3. Allow webcam access if requested.
+4. After taking the photo, click any key to continue.
+5. Enjoy your AI-generated comment! Comments are cached in the cachedComments file, and images are saved in the demo file.
 
 ### preloaded.py
+1. 
 
-_For more examples, please refer to the demo folder.
+_For samples, please refer to the demo folder.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
