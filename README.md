@@ -10,26 +10,23 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Using a virtual environment, use pip to download the following libraries.
+* pip
   ```sh
-  pip install replicate 
+  pip install replicate opencv-python
+  pip install --upgrade openai
   ```
 
 ### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+(*Note: We have already provided API keys within the config file for you to use, but we still need you to manually authenticate the replicate token*)
+1. Get a free Replicate API Key at [https://replicate.com/account](https://replicate.com/account), or use the one in our config file.
+2. In shell, set the token as an environment variable.
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   export REPLICATE_API_TOKEN=[token]
    ```
-3. Install NPM packages
+4. Clone the repo
    ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+   git clone [https://github.com/jjchilling/Auto-Roaster](https://github.com/jjchilling/Auto-Roaster)
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
