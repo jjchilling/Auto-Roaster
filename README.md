@@ -57,4 +57,4 @@ Using a virtual environment, use pip to download the following libraries.
 
 *For samples, please refer to the demo folder.*
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>\
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
