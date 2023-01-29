@@ -19,7 +19,7 @@ In a virtual environment, use pip to download the following libraries.
 
 ### Installation
 (*Note: We have already provided an API Key for Replicate, but you need an OpenAI account with credits to get the OpenAI token.*)
-1. Get a free Replicate API Key at [https://replicate.com/account](https://replicate.com/account), or use the one in our config file.
+1. Get a free Replicate API Key at [https://replicate.com/account](https://replicate.com/account).
 2. In shell, set the token as an environment variable.
    ```sh
    export REPLICATE_API_TOKEN=[token]
@@ -34,7 +34,7 @@ In a virtual environment, use pip to download the following libraries.
   ```
 5. Clone the repo
    ```sh
-   git clone [https://github.com/jjchilling/Auto-Roaster](https://github.com/jjchilling/Auto-Roaster)
+   git clone https://github.com/jjchilling/Auto-Roaster
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
