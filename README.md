@@ -46,22 +46,15 @@ Using a virtual environment, use pip to download the following libraries.
 5. Enjoy your AI-generated comment! Comments are cached in the cachedComments file, and images are saved in the demo file.
 
 ### preloaded.py
-1. 
+1. Save an image to the demo folder (.png, .jpeg, .jpg supported)
+2. In shell, run
+  ```sh
+  python preloaded.py
+  ```
+3. The script will ask if you want a roast or compliment (type in 'roast' or 'compliment' exactly without the quotes)
+4. The script will ask for the subject (type in either 'dog.jpeg', 'cat.jpeg', or 'cpax.jpeg' for sample images, or your image file name)
+5. Enjoy your AI-generated comment! Comments are cached in the cachedComments file, and images are saved in the demo file.
 
-_For samples, please refer to the demo folder.
+*For samples, please refer to the demo folder.*
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>\
