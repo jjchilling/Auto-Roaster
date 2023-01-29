@@ -43,7 +43,7 @@ In a virtual environment, use pip to download the following libraries.
 2. The script will ask if you want a roast or compliment (type in 'roast' or 'compliment' exactly without the quotes)
 3. Allow webcam access if requested.
 4. After taking the photo, click any key to continue.
-5. Enjoy your AI-generated comment! Comments are cached in the cachedComments file, and images are saved in the demo file.
+5. Enjoy your AI-generated comment (takes around 10 seconds on CPU)! Comments are cached in the cachedComments file, and images are saved in the demo file.
 
 ### preloaded.py
 1. Save an image to the demo folder (.png, .jpeg, .jpg supported)
@@ -53,7 +53,7 @@ In a virtual environment, use pip to download the following libraries.
   ```
 3. The script will ask if you want a roast or compliment (type in 'roast' or 'compliment' exactly without the quotes)
 4. The script will ask for the subject (type in either 'dog.jpeg', 'cat.jpeg', or 'cpax.jpeg' for sample images, or your image file name)
-5. Enjoy your AI-generated comment! Comments are cached in the cachedComments file, and images are saved in the demo file.
+5. Enjoy your AI-generated comment (takes around 10 seconds on CPU)! Comments are cached in the cachedComments file, and images are saved in the demo file.
 
 *For samples, please refer to the demo folder.*
 
