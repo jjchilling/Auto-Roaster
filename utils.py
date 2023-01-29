@@ -3,7 +3,7 @@ import openai
 import config
 import replicate
 
-openai.api_key = config.OPENAI_API_KEY
+#openai.api_key = config.OPENAI_API_KEY
 
 model = replicate.models.get("methexis-inc/img2prompt")
 version = model.versions.get("50adaf2d3ad20a6f911a8a9e3ccf777b263b8596fbd2c8fc26e8888f8a0edbb5")
